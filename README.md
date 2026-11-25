@@ -25,8 +25,7 @@ My default question for any repetitive task: **can I automate that?**
 
 ### 📝 Latest from the blog
 
-<!-- BLOG-POST-LIST:START -->
-- [Canadian Data Residency for AI Apps: What Engineers Should Know](https://txrxcode.com/canadian-data-residency-ai/)
+<!-- BLOG-POST-LIST:START -->- [Canadian Data Residency for AI Apps: What Engineers Should Know](https://txrxcode.com/canadian-data-residency-ai/)
 - [SLOs for LLM Features: Defining Reliability When Answers Can Be Wrong](https://txrxcode.com/slos-for-llm-features/)
 - [Home Lab Networking for Engineers: VLANs, WireGuard and a Safe Way In](https://txrxcode.com/home-lab-networking-wireguard/)
 - [AI Engineer Portfolio Projects That Get Interviews in Canada](https://txrxcode.com/ai-engineer-portfolio-projects-canada/)
