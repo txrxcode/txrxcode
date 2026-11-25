@@ -25,12 +25,12 @@ My default question for any repetitive task: **can I automate that?**
 
 ### 📝 Latest from the blog
 
-<!-- BLOG-POST-LIST:START -->- [Canadian Data Residency for AI Apps: What Engineers Should Know](https://txrxcode.com/canadian-data-residency-ai/)
-- [SLOs for LLM Features: Defining Reliability When Answers Can Be Wrong](https://txrxcode.com/slos-for-llm-features/)
-- [Home Lab Networking for Engineers: VLANs, WireGuard and a Safe Way In](https://txrxcode.com/home-lab-networking-wireguard/)
-- [AI Engineer Portfolio Projects That Get Interviews in Canada](https://txrxcode.com/ai-engineer-portfolio-projects-canada/)
-- [LLM Evals for Engineers: How to Test Prompts Like Code](https://txrxcode.com/llm-evals-for-engineers/)
-- [RAG with Postgres and pgvector: A Practical Guide for Production](https://txrxcode.com/rag-postgres-pgvector/)
+<!-- BLOG-POST-LIST:START -->- [Building Stream Tools for Twitch and Kick: Extensions, APIs and One Shared Backend](https://txrxcode.com/twitch-kick-stream-tools-developer-guide/)
+- [Running ComfyUI and Wan 2.2 as a Render Service: Queues, VRAM Budgets and Monitoring](https://txrxcode.com/comfyui-wan-2-2-render-service/)
+- [Model Routing for Coding Agents: When to Use Claude, DeepSeek V4 or a Local Model](https://txrxcode.com/model-routing-coding-agents-deepseek-claude/)
+- [Build an Open-Source AI SRE Assistant on Prometheus, Loki and Grafana](https://txrxcode.com/open-source-ai-sre-assistant-prometheus/)
+- [Harness Engineering for Infrastructure Repos: Guardrails for Coding Agents](https://txrxcode.com/harness-engineering-infrastructure-repos/)
+- [Canadian Data Residency for AI Apps: What Engineers Should Know](https://txrxcode.com/canadian-data-residency-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [txrxcode.com/writing](https://txrxcode.com/writing/)
